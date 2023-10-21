@@ -55,3 +55,13 @@ type to "text".
 required
 
 Add another < br > for a line break.
+
+**8.**
+There’s another animal in our story, so let’s add another <label> with a for attribute of "animal-3" that renders One More Animal: to the webpage.
+
+Then, add a new <input> with the attributes:
+
+id and name set to "animal-3".
+type to "text".
+required
+Remember to add another <br> for a line break.
