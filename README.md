@@ -105,3 +105,15 @@ Also, add a line break.
 **12.** One of our blanks requires a “yes” or “no” answer— sounds like we can use some radio buttons for that.
 
 Before we can add the radio buttons, add a <span> element that has the text Yes or No:.
+
+**13.** For radio buttons, we want to add the <input> before the <label> to render the radio button on the left of the text.
+
+Add an <input> element with the following attributes:
+
+- an id set to "yes".
+- a type with a value of "radio".
+- a name of "answer".
+- a value of "yes".
+- a required attribute.
+  
+Under the <input>, add a <label> with a for attribute assigned a value of "yes" that renders the text Yes on the webpage.
