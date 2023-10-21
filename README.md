@@ -101,3 +101,7 @@ After the <label> element, add an <input> that has:
 - a required attribute.
   
 Also, add a line break.
+
+**12.** One of our blanks requires a “yes” or “no” answer— sounds like we can use some radio buttons for that.
+
+Before we can add the radio buttons, add a <span> element that has the text Yes or No:.
