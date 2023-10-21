@@ -10,7 +10,7 @@ What you have to do is now make a <form> capable of collecting the correct infor
 
 ### Adding The Form
 
-**1.** We’ll be collecting information from our users using a <form> so, first, we have to add a <form> under the <hr> element inside the <body> of index.html.
+**1.** We’ll be collecting information from our users using a <form> so, first, we have to add a <form> under the < hr > element inside the <body> of index.html.
 
 **2.** Assign the <form> an action of "story.html" and a method of "GET".
 
