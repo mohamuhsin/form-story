@@ -7,3 +7,7 @@ The logic for parsing and inserting of user inputs is already taken care of in m
 What you have to do is now make a <form> capable of collecting the correct information so that the newly crafted story makes sense!
 
 # Tasks
+
+### Adding The Form
+
+**1.** We’ll be collecting information from our users using a <form> so, first, we have to add a <form> under the <hr> element inside the <body> of index.html.
