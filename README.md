@@ -27,4 +27,4 @@ Add a <label> element and assign the for attribute a value of "animal-1". Have t
 
 Write your code so that the submit button always shows up at the bottom of the <form>. As you add more code, the submit button should be kept at the bottom.
 
-Write your code so that the submit button always shows up at the bottom of the <form>. As you add more code, the submit b
+Write your code so that the submit button always shows up at the bottom of the <form>. As you add more code, the 
