@@ -130,3 +130,11 @@ Add another <input> element that has the following attributes:
 Under the just added <input>, add another <label> with a for attribute assigned a value of "no" that renders the text No on the webpage.
 
 This time, add a line break!
+
+**15.** The story that we’re creating this <form> for involves some sort of speed, so let’s give our users a dropdown list of speed options.
+
+Create a <label> and set the for attribute to "speed". The <label> should render the text: Relative speed (ends in -er):
+
+Then add a <select> element with an id and name of "speed". Add the required attribute to make this field mandatory.
+
+Insert a <br> after the closing <select> tag. The <select> element will be empty for now.
