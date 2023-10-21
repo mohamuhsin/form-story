@@ -82,11 +82,9 @@ Create a <label> with has a for attribute set to "verb-1" that renders the text 
 
 Follow the <label> with an <input> with the attributes:
 
-id and name set to "verb-1".
-
-type to "text".
-
-required
+- id and name set to "verb-1".
+- type to "text".
+- required
 
 Also, add a line break.
 
