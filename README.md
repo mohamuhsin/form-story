@@ -167,3 +167,10 @@ After the <label>, add an <input> with the follow attributes:
 **18.** Awesome, we should add the <datalist> now under the <input> element. Assign the <datalist> an id of "quote-choices".
 
 Add a < br > after the closing <datalist> tag.
+
+
+**19.** Let’s add a few <option>s with values within the <datalist> element. For example:
+
+~~~
+<option value="winner gets ice cream!"></option>
+~~~
