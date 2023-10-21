@@ -56,8 +56,7 @@ required
 
 Add another < br > for a line break.
 
-**8.**
-There’s another animal in our story, so let’s add another <label> with a for attribute of "animal-3" that renders One More Animal: to the webpage.
+**8.** There’s another animal in our story, so let’s add another <label> with a for attribute of "animal-3" that renders One More Animal: to the webpage.
 
 Then, add a new <input> with the attributes:
 
