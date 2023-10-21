@@ -26,5 +26,3 @@ This might seem counterintuitive, but by creating this submit button and submitt
 Add a <label> element and assign the for attribute a value of "animal-1". Have the <label> render the text Animal: on the webpage.
 
 Write your code so that the submit button always shows up at the bottom of the <form>. As you add more code, the submit button should be kept at the bottom.
-
-W
