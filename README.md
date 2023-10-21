@@ -58,9 +58,10 @@ Add another < br > for a line break.
 
 Then, add a new <input> with the attributes:
 
-id and name set to "animal-3".
-type to "text".
-required
+- id and name set to "animal-3".
+- type to "text".
+- required
+  
 Remember to add another < br > for a line break.
 
 **9.** Let’s have our users provide an adjective.
