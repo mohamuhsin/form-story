@@ -5,3 +5,5 @@ Forms are great for collecting information on users, like job applications or in
 The logic for parsing and inserting of user inputs is already taken care of in main.js using JavaScript . We’ve also added some styling to the page in style.css. 
 
 What you have to do is now make a <form> capable of collecting the correct information so that the newly crafted story makes sense!
+
+# Tasks
