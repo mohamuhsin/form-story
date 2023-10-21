@@ -21,8 +21,16 @@ We’ll be sending information from our form to story.html using a GET request.
 This might seem counterintuitive, but by creating this submit button and submitting the form as you add more code, you can see how the final result of the story evolves and debug in smaller chunks. Check the hint for more debugging tips!
 
 ### Adding Text Input
+
 **4.** Now we can populate our <form> with <input> elements that allow users to type in their responses. We’ll also want to have associated <label>s with these <input> elements so users know what they’re filling in.
 
 Add a <label> element and assign the for attribute a value of "animal-1". Have the <label> render the text Animal: on the webpage.
 
 Write your code so that the submit button always shows up at the bottom of the <form>. As you add more code, the submit button should be kept at the bottom.
+
+
+**5.** Now we can create an <input> to associate our <label> element with.
+
+Set the id of the <input> to "animal-1" and the type to "text". Assign the name to "animal-1". Remember, the name attribute is needed for information from this <input> to be sent with the form during submission.
+
+Speaking of submission, since we want our users to put in some value, add the required attribute to the <input>.
