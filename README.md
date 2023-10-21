@@ -174,3 +174,11 @@ Add a < br > after the closing <datalist> tag.
 ~~~
 <option value="winner gets ice cream!"></option>
 ~~~
+
+**20.** Every good story has a key takeaway, so let’s finish off this <form> by having our users provide this message!
+
+Add a <label> that has a for attribute of "message". Have the <label> render Meaningful Message: on the web page.
+
+Under the <label> add a <textarea> that has an id and name of "message". Make the <textarea> a required field. The <textarea> should have 8 rows and 40 columns. (Check the hint for a syntax reminder).
+
+Then add a line break after the <textarea> element.
