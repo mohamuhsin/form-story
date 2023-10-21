@@ -117,3 +117,16 @@ Add an <input> element with the following attributes:
 - a required attribute.
   
 Under the <input>, add a <label> with a for attribute assigned a value of "yes" that renders the text Yes on the webpage.
+
+**14.** We should now add a radio button that represents the “no” choice.
+
+Add another <input> element that has the following attributes:
+
+- an id set to "no".
+- a type with a value of "radio".
+- a name of "answer".
+- a value of "no".
+- 
+Under the just added <input>, add another <label> with a for attribute assigned a value of "no" that renders the text No on the webpage.
+
+This time, add a line break!
