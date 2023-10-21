@@ -101,7 +101,7 @@ Let’s add a field that will accept a number. First add <label> with a for attr
 
 After the <label> element, add an <input> that has:
 
-- or * id and name set to "num-1".
-a type attribute of "number".
-a required attribute.
+- id and name set to "num-1".
+- a type attribute of "number".
+- a required attribute.
 Also, add a line break.
