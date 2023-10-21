@@ -92,3 +92,16 @@ type to "text".
 required
 
 Also, add a line break.
+
+### Other Inputs
+
+**11.** Great, we have some <input>s set up that accept text, but we can use some <input> with different types in our <form>.
+
+Let’s add a field that will accept a number. First add <label> with a for attribute of "num-1"that renders the text Number: to the webpage.
+
+After the <label> element, add an <input> that has:
+
+- or * id and name set to "num-1".
+a type attribute of "number".
+a required attribute.
+Also, add a line break.
