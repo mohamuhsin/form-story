@@ -40,3 +40,15 @@ Speaking of submission, since we want our users to put in some value, add the re
 Below the <input> element, add a line break using < br >.
 
 With the first input field and working submit button, type some text into the field and submit it! Remember, in order for you to see the new code rendered on the browser, you’re going to need to save your code.
+
+**7.**
+Our story has quite a few blanks, so we’re going to need a lot more <label>s and <input>s.
+
+Add another <label> with a for attribute of "animal-2" that renders Another Animal: to the webpage.
+
+Underneath the <label>, create a new <input> with the attributes:
+
+id and name set to "animal-2".
+type to "text".
+required
+Add another <br> for a line break.
