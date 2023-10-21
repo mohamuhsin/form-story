@@ -126,7 +126,7 @@ Add another <input> element that has the following attributes:
 - a type with a value of "radio".
 - a name of "answer".
 - a value of "no".
-- 
+  
 Under the just added <input>, add another <label> with a for attribute assigned a value of "no" that renders the text No on the webpage.
 
 This time, add a line break!
