@@ -34,3 +34,9 @@ Write your code so that the submit button always shows up at the bottom of the <
 Set the id of the <input> to "animal-1" and the type to "text". Assign the name to "animal-1". Remember, the name attribute is needed for information from this <input> to be sent with the form during submission.
 
 Speaking of submission, since we want our users to put in some value, add the required attribute to the <input>.
+
+**6.** We’re going to be adding more <label>s and <input>s so we should add some spacing.
+
+Below the <input> element, add a line break using <br>.
+
+With the first input field and working submit button, type some text into the field and submit it! Remember, in order for you to see the new code rendered on the browser, you’re going to need to save your code.
