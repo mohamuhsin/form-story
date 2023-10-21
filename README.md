@@ -138,3 +138,13 @@ Create a <label> and set the for attribute to "speed". The <label> should render
 Then add a <select> element with an id and name of "speed". Add the required attribute to make this field mandatory.
 
 Insert a <br> after the closing <select> tag. The <select> element will be empty for now.
+
+**16.** Inside the <select> add a few <option>s for users to choose from.
+
+One example of an <option> you could include is:
+
+ > <option value="faster">Faster</option>
+
+Add as many or as few as you’d like!
+
+Remember to assign a value and include text between the opening and closing <option> tags.
