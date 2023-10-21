@@ -15,3 +15,7 @@ What you have to do is now make a <form> capable of collecting the correct infor
 **2.** Assign the <form> an action of "story.html" and a method of "GET".
 
 We’ll be sending information from our form to story.html using a GET request.
+
+**3.** In the <form>, create a submit button by adding an <input> with a type of "submit". Assign the value a value of "Form My Story!". Save your code to see the button rendered.
+
+This might seem counterintuitive, but by creating this submit button and submitting the form as you add more code, you can see how the final result of the story evolves and debug in smaller chunks. Check the hint for more debugging tips!
