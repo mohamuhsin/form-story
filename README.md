@@ -70,11 +70,9 @@ Add another <label> with a for attribute of "adj-1" that renders the text Adject
 
 Then, add a new <input> with the attributes:
 
-id and name set to "adj-1".
-
-type to "text".
-
-required
+- id and name set to "adj-1".
+- type to "text".
+- required
 
 Add another line break.
 
