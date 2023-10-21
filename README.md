@@ -54,4 +54,4 @@ type to "text".
 
 required
 
-Add another <br> for a line break.
+Add another < br > for a line break.
