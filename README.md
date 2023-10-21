@@ -143,7 +143,9 @@ Insert a <br> after the closing <select> tag. The <select> element will be empty
 
 One example of an <option> you could include is:
 
- ''' < option value="faster">Faster< / option > '''
+~~~
+<option value="faster">Faster</option >
+~~~
 
 Add as many or as few as you’d like!
 
