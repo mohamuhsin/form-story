@@ -24,6 +24,51 @@
       </h1>
       <hr />
       <!--Add your form below:-->
+      <!-- BARLES -->
+      <form action="story.html" method="get">
+        <input type="submit" value="Form My Story!" />
+
+        <label for="">animal-1</label>
+        <input type="text" id="animal-1" name="animal-1" />
+        <br />
+        <label for="">animal-2</label>
+        <input type="text" id="animal-2" name="animal-2" required />
+        <br />
+        <label for="">animal-3</label>
+        <input type="text" id="animal-3" name="animal-3" required />
+        <br />
+        <label for="">adj-1</label>
+        <input type="text" id="adj-1" name="adj-1" required />
+        <br />
+        <label for="">verb-1</label>
+        <input type="text" id="verb-1" name="verb-1" required />
+        <br />
+        <label for="">num-1</label>
+        <input type="number" id="num-1" name="num-1" required />
+        <br />
+        <span>Yes or No</span>
+        <input id="yes" type="radio" name="answer" value="yes" required />
+        <label for="Yes">Yes</label>
+        <input id="no" type="radio" name="answer" value="no" required />
+        <label for="No">No</label>
+        <br>
+        <label for="Speed">Speed</label>
+        <select name="speed" id="speed">
+          <option value="faster">Faster</option>
+          <option value="slower">Slower</option>
+        </select>
+        <br />
+        <label for="quote">quote</label>
+        <input type="text" id="quote" required list="quote-choices" />
+        <datalist id="quote-choices">
+          <option value="winner gets ice cream!"></option>
+          <option value="loser goes home without anything!"></option>
+        </datalist>
+        <br />
+        <label for="message">message</label>
+        <textarea name="message" id="message"  required></textarea>
+        <br>
+      </form>
     </section>
   </body>
 </html>
