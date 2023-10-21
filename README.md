@@ -151,7 +151,7 @@ Add as many or as few as you’d like!
 
 Remember to assign a value and include text between the opening and closing <option> tags.
 
-**18.** One of our story’s blank requires a quote. We could provide our users with a few options but also give them the choice of adding their own custom quote. To do this, we can use the <datalist> element.
+**17.** One of our story’s blank requires a quote. We could provide our users with a few options but also give them the choice of adding their own custom quote. To do this, we can use the <datalist> element.
 
 To set up the <datalist> we need an accompanying <label> and <input>.
 
