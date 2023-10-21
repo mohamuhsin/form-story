@@ -64,3 +64,17 @@ id and name set to "animal-3".
 type to "text".
 required
 Remember to add another < br > for a line break.
+
+**9.** Let’s have our users provide an adjective.
+
+Add another <label> with a for attribute of "adj-1" that renders the text Adjective (ends in -ed): to the webpage.
+
+Then, add a new <input> with the attributes:
+
+id and name set to "adj-1".
+
+type to "text".
+
+required
+
+Add another line break.
