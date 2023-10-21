@@ -163,3 +163,7 @@ After the <label>, add an <input> with the follow attributes:
 - the type set to "text".
 - a required attribute.
 - a list attribute of "quote-choices".
+
+**18.** Awesome, we should add the <datalist> now under the <input> element. Assign the <datalist> an id of "quote-choices".
+
+Add a < br > after the closing <datalist> tag.
