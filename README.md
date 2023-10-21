@@ -49,6 +49,9 @@ Add another <label> with a for attribute of "animal-2" that renders Another Anim
 Underneath the <label>, create a new <input> with the attributes:
 
 id and name set to "animal-2".
+
 type to "text".
+
 required
+
 Add another <br> for a line break.
