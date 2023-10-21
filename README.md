@@ -63,4 +63,4 @@ Then, add a new <input> with the attributes:
 id and name set to "animal-3".
 type to "text".
 required
-Remember to add another <br> for a line break.
+Remember to add another < br > for a line break.
