@@ -78,3 +78,17 @@ type to "text".
 required
 
 Add another line break.
+
+**10.** Let’s get a verb.
+
+Create a <label> with has a for attribute set to "verb-1" that renders the text Verb (ends in -ing):.
+
+Follow the <label> with an <input> with the attributes:
+
+id and name set to "verb-1".
+
+type to "text".
+
+required
+
+Also, add a line break.
