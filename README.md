@@ -181,6 +181,6 @@ Add a <label> that has a for attribute of "message". Have the <label> render Mea
 
 Under the <label> add a <textarea> that has an id and name of "message". Make the <textarea> a required field. The <textarea> should have 8 rows and 40 columns. (Check the hint for a syntax reminder).
 
-Under the <label> add a <textarea> that has an id and name of "message". Make the <textarea> a required field. The <textarea> should have 8 rows and 40 columns. ( 
+Under the <label> add a <textarea> that has an id and name of "message". Make the <textarea> a required field. The <textarea> should have 8 rows and 40 column
 
 Then add a line break after the <textarea> element.
